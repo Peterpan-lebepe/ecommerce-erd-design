@@ -1,0 +1,58 @@
+# E-Commerce ERD Design Assignment
+
+## Overview
+This project contains an Entity Relationship Diagram (ERD) designed for an e-commerce database system.
+
+The ERD models the relationships between customers, orders, products, payments, deliveries, suppliers, and categories within a structured relational database environment.
+
+## Objectives
+The purpose of this assignment was to:
+- Design a relational database structure
+- Apply database normalization principles
+- Define primary and foreign keys
+- Create relationships between entities
+- Model a real-world e-commerce system
+
+## Entities Included
+- CUSTOMER
+- ADDRESS
+- ORDERS
+- ORDER_ITEM
+- PRODUCT
+- CATEGORY
+- SUPPLIER
+- PAYMENT
+- DELIVERY
+
+## Key Features
+- Customer order management
+- Product and category relationships
+- Supplier management
+- Payment tracking
+- Delivery tracking
+- Proper primary and foreign key relationships
+
+## Relationships Implemented
+- One customer can place many orders
+- One customer can have multiple addresses
+- One order can contain multiple order items
+- Products can appear in multiple order items
+- One category can contain multiple products
+- One supplier can supply multiple products
+- One order can have multiple payments
+- One order can have multiple deliveries
+
+## Tools Used
+- draw.io (diagrams.net)
+- GitHub
+- Database Modelling Concepts
+
+## Skills Demonstrated
+- Database Design
+- Entity Relationship Modelling
+- Data Structuring
+- Problem Solving
+- Relational Database Concepts
+
+## Author
+Lebeko Peter Lebepe
